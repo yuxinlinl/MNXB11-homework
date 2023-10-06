@@ -1,0 +1,463 @@
+kyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ sbathc[K[K[Ktch Homework5/yuxinlin-homework5-solution.sh [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kh
+[?2004lsbatch: error: Unable to open file Homework5/yuxinlin-homework5-solution.sh
+kyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ kyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ sbatch `][K[K~/yuxinli[K[K[K[K[K[K[Kgit/HOme[K[K[Komeworj[Kk5/yuxinlin-homework5-solut [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Ku[Klut ion.sh
+[?2004lsbatch: error: invalid partition specified: yuxinlin-homework5-part1
+sbatch: error: Batch job submission failed: Invalid partition name specified
+kyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ kyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ sbatch [K[K[K[K[K[K[Kcode yuxinlin-homework5-solution.shd Homework5[K[5Pgit ./yuxinlin-homework5-solution.sh[20Pcd Homework5[5Pgit screen -Lcd git/yuxinlin-HW5[4Pyuxinlin-HW5ode ~/git/Homework5/yuxinlin-homework5-solution.sh[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PHomework5/yuxinlin-homework5-solution.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd yuxinlin-HW5[K..[KHomework5W5[K[1P..ls -lcd Homework5[5Pgit screen -Lcd yuxinlin-HW5[3@mkdir[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pcd gitmv yuxinlin-HW5 Homework5[K[8Pcd git screen -Lcd ~/git/yuxinlin-HW5ode yuxinlin-homework5-solution.sh[14Pd ~/git/yuxinlin-HW5[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcode yuxinlin-homework5-solution.sh[14Pd ~/git/yuxinlin-HW5./yuxinlin-homework5-solution.sh[11Pcd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5ode yuxinlin-homework5-solution.sh[14Pd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5ode yuxinlin-homework5-solution.sh[14Pd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5ode yuxinlin-homework5-solution.sh[14Pd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5./yuxinlin-homework5-solution.sh[11Pcd ~/git/yuxinlin-HW5[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksbatch ~/git/Homework5/yuxinlin.homework5.so[K[K[K[K[K[K[K[K[K[K[K[K[K-homework5-solui [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct ion.sh
+[?2004lSubmitted batch job 84260
+kyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ squeue
+[?2004l             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+             75044   gpua100 SO265_12     hlhh PD       0:00      1 (AssocGrpMemLimit)
+             75045   gpua100 SO109_10     hlhh PD       0:00      1 (AssocGrpMemLimit)
+             75041   gpua100 SO113_87     hlhh  R 1-01:25:21      1 cg08
+             74505   gpua100 SO73_830     hlhh  R 2-05:14:55      1 cg10
+             75032   gpua100 SO61_650     hlhh  R 1-15:12:15      1 cg12
+             73795   gpua100 SO109_10     hlhh  R 4-01:56:37      1 cg07
+             73797   gpua100 SO65_810     hlhh  R 4-01:54:48      1 cg09
+             75030   gpua100 SO41_540     hlhh  R 2-04:18:23      1 cg11
+             75005  gpua100i SO13_320     hlhh PD       0:00      1 (AssocGrpMemLimit)
+             75018  gpua100i SO65_970     hlhh PD       0:00      1 (AssocGrpMemLimit)
+             74502  gpua100i SO73_115     hlhh  R 2-05:43:19      1 cg19
+             74993  gpua100i SO257_16     hlhh  R 1-21:12:20      1 cg20
+             74977  gpua100i SO365_27     hlhh  R 2-04:59:00      1 cg21
+             74992  gpua100i SO257_16     hlhh  R 2-04:45:54      1 cg18
+             84230    gpua40     lhpc etudisco  R      13:32      1 cg01
+             83950       hep NNBAR_pr    scyiu PD       0:00      1 (Resources)
+             83921       hep NNBAR_mu    scyiu PD       0:00      1 (Priority)
+             83913       hep HIBEAM_p    scyiu PD       0:00      1 (Priority)
+             83912       hep HIBEAM_p    scyiu PD       0:00      1 (Priority)
+             83911       hep HIBEAM_p    scyiu PD       0:00      1 (Priority)
+             83907       hep HIBEAM_e    scyiu PD       0:00      1 (Priority)
+             83894       hep HIBEAM_g    scyiu PD       0:00      1 (Priority)
+             83906       hep HIBEAM_e    scyiu PD       0:00      1 (Priority)
+             83849       hep HIBEAM_s    scyiu PD       0:00      1 (Priority)
+             83944       hep NNBAR_el    scyiu PD       0:00      1 (Priority)
+             83943       hep NNBAR_el    scyiu PD       0:00      1 (Priority)
+             83942       hep NNBAR_el    scyiu PD       0:00      1 (Priority)
+             83931       hep NNBAR_ga    scyiu PD       0:00      1 (Priority)
+             83935       hep NNBAR_ne    scyiu PD       0:00      1 (Priority)
+             83900       hep HIBEAM_n    scyiu PD       0:00      1 (Priority)
+             83889       hep HIBEAM_m    scyiu PD       0:00      1 (BeginTime)
+             83934       hep NNBAR_ne    scyiu PD       0:00      1 (BeginTime)
+             83922       hep NNBAR_mu    scyiu  R      24:23      1 cx04
+             83923       hep NNBAR_mu    scyiu  R      24:23      1 cx04
+             83932       hep NNBAR_ga    scyiu  R      24:23      1 cx05
+             83926       hep NNBAR_mu    scyiu  R      24:23      1 cx05
+             83927       hep NNBAR_ga    scyiu  R      24:23      1 cx06
+             83928       hep NNBAR_ga    scyiu  R      24:23      1 cx06
+             83929       hep NNBAR_ga    scyiu  R      24:23      1 cx07
+             83930       hep NNBAR_ga    scyiu  R      24:23      1 cx07
+             83895       hep HIBEAM_g    scyiu  R      18:59      1 cx12
+             83924       hep NNBAR_mu    scyiu  R      18:59      1 cx12
+             83937       hep NNBAR_ne    scyiu  R      18:59      1 cx13
+             83938       hep NNBAR_ne    scyiu  R      18:59      1 cx14
+             83939       hep NNBAR_el    scyiu  R      18:59      1 cx14
+             83940       hep NNBAR_el    scyiu  R      18:59      1 cx15
+             83941       hep NNBAR_el    scyiu  R      18:59      1 cx15
+             83948       hep NNBAR_pr    scyiu  R       0:59      1 cx11
+             83949       hep NNBAR_pr    scyiu  R       0:59      1 cx11
+             83947       hep NNBAR_pr    scyiu  R       3:45      1 cx13
+             83901       hep HIBEAM_n    scyiu  R       5:59      1 cx08
+             83925       hep NNBAR_mu    scyiu  R       5:59      1 cx08
+             83887       hep HIBEAM_m    scyiu  R       5:59      1 cx09
+             83888       hep HIBEAM_m    scyiu  R       5:59      1 cx09
+             83905       hep HIBEAM_e    scyiu  R       5:59      1 cx10
+             83946       hep NNBAR_pr    scyiu  R       5:59      1 cx10
+             81236      lu32 run.psi4     vivy  R   16:31:22      1 cn196
+             69506      lu48 guess_ap ad3021gu PD       0:00      1 (DependencyNeverSatisfied)
+             69504      lu48 guess_ap ad3021gu PD       0:00      1 (DependencyNeverSatisfied)
+             69184      lu48 guess_ap ad3021gu PD       0:00      1 (DependencyNeverSatisfied)
+             70861      lu48 Hst3HSPS    osven PD       0:00      8 (AssocGrpCpuLimit)
+             70862      lu48 Hst3HSPS    osven PD       0:00      8 (AssocGrpCpuLimit)
+             70910      lu48 PCPS_H_5  amandae PD       0:00      8 (AssocGrpCpuLimit)
+             84255      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Priority)
+             84256      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Priority)
+             84247      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Resources)
+             84248      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Priority)
+             84249      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Priority)
+             84250      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Priority)
+             84251      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Priority)
+             84252      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Priority)
+             84253      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Priority)
+             84254      lu48 LAMMPS_J  mek-pao PD       0:00      1 (Priority)
+             72383      lu48 Hst3HSPC    osven PD       0:00      8 (AssocGrpCpuLimit)
+             72384      lu48 Hst3HSPS    osven PD       0:00      8 (AssocGrpCpuLimit)
+             68126      lu48 PCPS_M17  amandae PD       0:00      8 (AssocGrpCpuLimit)
+             74385      lu48  6L9tzA- maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             74963      lu48  2HLAHtz maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             74964      lu48  2HLA-tz maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             74965      lu48  6L5tzA- maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79887      lu48 7LUbtzA- maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79906      lu48 c2LbtzNA maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79909      lu48 c2LbtzNA maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79912      lu48 c6L5tzAH maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79924      lu48 c7LWHtzA maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79931      lu48 c7LWHtzA maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79946      lu48 c7LWUtzA maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79953      lu48 c7LUtzA- maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79957      lu48 c7LMtzAH maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79958      lu48 c7LMtzA- maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79961      lu48  c8LDA-b maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             79965      lu48  c9LtzA- maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+   80968_[299-300]      lu48 s02_mmse  aegorov PD       0:00      1 (Priority)
+   83815_[301-500]      lu48 s02_mmse  aegorov PD       0:00      1 (Priority)
+             83520      lu48  2DLA-tz maryam42 PD       0:00      1 (AssocGrpCpuLimit)
+             83517      lu48    mpi48      per  R    4:36:20      1 cn086
+             84260      lu48 yuxinlin yuxinlin  R       0:17      1 cn127
+             82479      lu48 L_9.41_4 gtesei00  R   13:16:36      1 cn001
+             82480      lu48 L_9.41_5 gtesei00  R   13:16:36      1 cn001
+             82481      lu48 L_9.41_5 gtesei00  R   13:16:36      1 cn001
+             82482      lu48 L_9.41_6 gtesei00  R   13:16:36      1 cn001
+             82483      lu48 L_9.41_7 gtesei00  R   13:16:36      1 cn001
+             82484      lu48 L_9.41_8 gtesei00  R   13:16:36      1 cn001
+             82485      lu48 M_9.41_4 gtesei00  R   13:16:36      1 cn001
+             82486      lu48 M_9.41_5 gtesei00  R   13:16:36      1 cn001
+             82487      lu48 M_9.41_5 gtesei00  R   13:16:36      1 cn001
+             82488      lu48 M_9.41_6 gtesei00  R   13:16:36      1 cn001
+             82489      lu48 M_9.41_7 gtesei00  R   13:16:36      1 cn001
+             82490      lu48 M_9.41_8 gtesei00  R   13:16:36      1 cn024
+             82491      lu48 S_9.41_4 gtesei00  R   13:16:36      1 cn024
+             82492      lu48 S_9.41_5 gtesei00  R   13:16:36      1 cn024
+             82493      lu48 S_9.41_5 gtesei00  R   13:16:36      1 cn024
+             82494      lu48 S_9.41_6 gtesei00  R   13:16:36      1 cn024
+             82495      lu48 S_9.41_7 gtesei00  R   13:16:36      1 cn024
+             82496      lu48 S_9.41_8 gtesei00  R   13:16:36      1 cn024
+             82497      lu48 La_9.41_ gtesei00  R   13:16:36      1 cn024
+             82498      lu48 La_9.41_ gtesei00  R   13:16:36      1 cn024
+             82499      lu48 La_9.41_ gtesei00  R   13:16:36      1 cn024
+             82500      lu48 La_9.41_ gtesei00  R   13:16:36      1 cn024
+             82501      lu48 La_9.41_ gtesei00  R   13:16:36      1 cn024
+             82502      lu48 La_9.41_ gtesei00  R   13:16:36      1 cn024
+             82503      lu48 Lb_9.41_ gtesei00  R   13:16:36      1 cn024
+             82504      lu48 Lb_9.41_ gtesei00  R   13:16:36      1 cn024
+             82505      lu48 Lb_9.41_ gtesei00  R   13:16:36      1 cn024
+             82506      lu48 Lb_9.41_ gtesei00  R   13:16:36      1 cn024
+             82507      lu48 Lb_9.41_ gtesei00  R   13:16:36      1 cn024
+             82508      lu48 Lb_9.41_ gtesei00  R   13:16:36      1 cn024
+             82509      lu48 Lc_9.41_ gtesei00  R   13:16:36      1 cn024
+             82510      lu48 Lc_9.41_ gtesei00  R   13:16:36      1 cn024
+             82511      lu48 Lc_9.41_ gtesei00  R   13:16:36      1 cn096
+             82512      lu48 Lc_9.41_ gtesei00  R   13:16:36      1 cn096
+             82513      lu48 Lc_9.41_ gtesei00  R   13:16:36      1 cn096
+             82514      lu48 Lc_9.41_ gtesei00  R   13:16:36      1 cn096
+             82515      lu48 Ld_9.41_ gtesei00  R   13:16:36      1 cn096
+             82516      lu48 Ld_9.41_ gtesei00  R   13:16:36      1 cn096
+             82517      lu48 Ld_9.41_ gtesei00  R   13:16:36      1 cn096
+             82518      lu48 Ld_9.41_ gtesei00  R   13:16:36      1 cn096
+             82519      lu48 Ld_9.41_ gtesei00  R   13:16:36      1 cn096
+             82520      lu48 Ld_9.41_ gtesei00  R   13:16:36      1 cn096
+             82521      lu48 Le_9.41_ gtesei00  R   13:16:36      1 cn096
+             82522      lu48 Le_9.41_ gtesei00  R   13:16:36      1 cn096
+             82523      lu48 Le_9.41_ gtesei00  R   13:16:36      1 cn096
+             82524      lu48 Le_9.41_ gtesei00  R   13:16:36      1 cn096
+             82525      lu48 Le_9.41_ gtesei00  R   13:16:36      1 cn096
+             82526      lu48 Le_9.41_ gtesei00  R   13:16:36      1 cn096
+             84140      lu48  vikings nimamohs  R    1:02:26      1 cn127
+             79856      lu48 f20_07fd   agertz  R 1-03:28:51      2 cn[007-008]
+             79853      lu48 f40_07fd   agertz  R 1-03:31:44      2 cn[004,090]
+             79848      lu48      f40   agertz  R 1-03:42:36      2 cn[049-050]
+             79852      lu48 f60_07fd   agertz  R 1-03:37:01      2 cn[013,135]
+             79846      lu48      f60   agertz  R 1-03:56:44      2 cn[017,042]
+             73849      lu48 job.sbat   valera  R 4-00:13:14      1 cn014
+             74521      lu48 job.sbat   valera  R 2-08:38:03      1 cn087
+             75052      lu48 job.sbat   valera  R 2-04:03:36      1 cn014
+             79822      lu48 T08S48A5   szrobi  R 1-04:36:51      2 cn[031,158]
+             79821      lu48 T08S48A0   szrobi  R 1-04:38:22      2 cn[156-157]
+             79819      lu48 R08S48A5   szrobi  R 1-04:39:50      2 cn[154-155]
+             79818      lu48 R08S48A0   szrobi  R 1-04:42:49      2 cn[152-153]
+             84227      lu48       SO     vida  R      23:03      2 cn[010-011]
+             84261      lu48     MESH     vida  R       0:08      1 cn127
+             73874      lu48      sub      jan  R 3-23:42:15      1 cn096
+             73873      lu48      sub      jan  R 3-23:42:30      1 cn096
+             73872      lu48      sub      jan  R 3-23:42:54      1 cn096
+             73871      lu48      sub      jan  R 3-23:43:30      1 cn096
+             73869      lu48      sub      jan  R 3-23:44:18      1 cn056
+             73867      lu48      sub      jan  R 3-23:45:05      1 cn056
+             73865      lu48      sub      jan  R 3-23:45:20      1 cn056
+             73864      lu48      sub      jan  R 3-23:45:36      1 cn056
+             73863      lu48      sub      jan  R 3-23:45:48      1 cn056
+             83853      lu48  acharya pacharya  R    2:03:13      1 cn059
+             81439      lu48 viscE3_m   trulle  R   16:19:39      1 cn105
+             81227      lu48 viscE3_m   trulle  R   16:40:46      1 cn105
+             81228      lu48 viscE3_m   trulle  R   16:40:27      1 cn096
+             81229      lu48 viscE3_m   trulle  R   16:40:27      1 cn096
+             81441      lu48 viscE3_m   trulle  R   16:19:30      1 cn002
+             82619      lu48 pr_l3ang  zakiyeh  R    7:52:13      1 cn059
+             82618      lu48 pr_l3ang  zakiyeh  R    7:52:47      1 cn002
+             82617      lu48 pr_l3ang  zakiyeh  R    7:53:20      1 cn002
+             81646      lu48 viscE3_m   trulle  R   16:01:52      1 cn096
+             81443      lu48 viscE3_m   trulle  R   16:19:29      1 cn027
+             81649      lu48 viscE3_m   trulle  R   16:01:29      1 cn138
+             81648      lu48 viscE3_m   trulle  R   16:01:41      1 cn002
+             81647      lu48 viscE3_m   trulle  R   16:01:51      1 cn024
+             81447      lu48 viscE3_m   trulle  R   16:18:42      1 cn002
+             81446      lu48 viscE3_m   trulle  R   16:18:52      1 cn002
+             81444      lu48 viscE3_m   trulle  R   16:19:22      1 cn087
+             81240      lu48 viscE3_m   trulle  R   16:28:41      1 cn024
+             81239      lu48 viscE3_m   trulle  R   16:29:12      1 cn024
+             81235      lu48 viscE3_m   trulle  R   16:32:32      1 cn024
+             81030      lu48 viscE3_m   trulle  R   16:51:32      1 cn059
+             80107      lu48      sub      jan  R   22:58:07      1 cn072
+             80106      lu48      sub      jan  R   22:58:18      1 cn072
+             80105      lu48      sub      jan  R   22:58:38      1 cn072
+             80102      lu48      sub      jan  R   22:59:34      1 cn072
+             80101      lu48      sub      jan  R   23:00:01      1 cn072
+             80100      lu48      sub      jan  R   23:00:31      1 cn072
+             79941      lu48      sub      jan  R 1-02:45:01      1 cn024
+             79943      lu48      sub      jan  R 1-02:45:01      1 cn024
+             80022      lu48      sub      jan  R 1-01:05:38      1 cn002
+             80020      lu48      sub      jan  R 1-01:05:54      1 cn002
+             79955      lu48      sub      jan  R 1-02:39:31      1 cn024
+             79954      lu48      sub      jan  R 1-02:40:11      1 cn024
+             79950      lu48      sub      jan  R 1-02:42:38      1 cn024
+             79948      lu48      sub      jan  R 1-02:43:30      1 cn024
+             79947      lu48      sub      jan  R 1-02:43:41      1 cn024
+             79932      lu48      sub      jan  R 1-02:47:01      1 cn024
+             79935      lu48      sub      jan  R 1-02:47:01      1 cn024
+             79936      lu48      sub      jan  R 1-02:47:01      1 cn024
+             79927      lu48      sub      jan  R 1-02:49:01      1 cn014
+             79928      lu48      sub      jan  R 1-02:49:01      1 cn014
+             79929      lu48      sub      jan  R 1-02:49:01      1 cn014
+             79930      lu48      sub      jan  R 1-02:49:01      1 cn024
+             79159      lu48      sub      jan  R 1-06:37:30      1 cn024
+             80048      lu48      sub      jan  R 1-00:37:19      1 cn056
+             80047      lu48      sub      jan  R 1-00:37:29      1 cn056
+             80033      lu48      sub      jan  R 1-00:58:07      1 cn056
+             80032      lu48      sub      jan  R 1-00:58:21      1 cn056
+             80031      lu48      sub      jan  R 1-00:58:52      1 cn056
+             80029      lu48      sub      jan  R 1-00:59:58      1 cn024
+             80028      lu48      sub      jan  R 1-01:00:10      1 cn024
+             80027      lu48      sub      jan  R 1-01:00:51      1 cn002
+             80024      lu48      sub      jan  R 1-01:04:01      1 cn002
+             84259      lu48      sub   davidr  R       0:56      1 cn002
+             73785      lu48 NEB-rh-L     iria  R 4-02:14:38      1 cn138
+             74737      lu48 NEB-rh-L     iria  R 2-22:52:56      1 cn061
+             73768      lu48    qprod     iria  R 4-02:38:17      1 cn014
+             73767      lu48    qprod     iria  R 4-02:38:39      1 cn014
+             73711      lu48    qprod     iria  R 4-04:09:57      1 cn063
+             73709      lu48    qprod     iria  R 4-04:11:51      1 cn056
+             74655      lu48    qprod     iria  R 2-22:33:34      1 cn061
+             74412      lu48    f50v3   agertz  R 3-05:15:34      3 cn[109-110,139]
+             83812      lu48 f20niceh   agertz  R    3:09:19      2 cn[114-115]
+             80232      lu48 ru-3-cha     iria  R   20:36:36      1 cn127
+             80231      lu48 fe-3-cha     iria  R   20:36:39      1 cn063
+             73770      lu48    qprod     iria  R 2-07:57:10      1 cn058
+             76100      lu48      sub      jan  R 1-23:42:32      1 cn058
+             76096      lu48      sub      jan  R 1-23:42:46      1 cn014
+             76092      lu48      sub      jan  R 1-23:42:59      1 cn172
+             76091      lu48      sub      jan  R 1-23:43:13      1 cn136
+             76086      lu48      sub      jan  R 1-23:43:57      1 cn136
+             76084      lu48      sub      jan  R 1-23:44:13      1 cn056
+             76078      lu48      sub      jan  R 1-23:44:24      1 cn002
+             76073      lu48      sub      jan  R 1-23:44:39      1 cn002
+             76065      lu48      sub      jan  R 1-23:44:52      1 cn002
+             77219      lu48      sub      jan  R 1-21:39:16      1 cn096
+             77218      lu48      sub      jan  R 1-21:39:26      1 cn072
+             77217      lu48      sub      jan  R 1-21:39:48      1 cn072
+             77216      lu48      sub      jan  R 1-21:39:58      1 cn072
+             77215      lu48      sub      jan  R 1-21:40:11      1 cn072
+             77214      lu48      sub      jan  R 1-21:40:22      1 cn072
+             77213      lu48      sub      jan  R 1-21:40:40      1 cn072
+             77212      lu48      sub      jan  R 1-21:41:09      1 cn072
+             77211      lu48      sub      jan  R 1-21:41:18      1 cn072
+             74975      lu48 viscE3_m   trulle  R 2-05:24:31      1 cn084
+             74974      lu48 viscE3_m   trulle  R 2-05:24:56      1 cn084
+             74973      lu48 viscE3_m   trulle  R 2-05:25:59      1 cn059
+             74972      lu48 viscE3_m   trulle  R 2-05:26:34      1 cn059
+             74971      lu48 Attr500_   trulle  R 2-05:28:48      1 cn027
+             72591      lu48 fe-3-cha     iria  R 6-03:47:01      1 cn178
+             68150      lu48 Hst3HSPC    osven  R 6-03:32:09      8 cn[039-040,043-047,057]
+             68149      lu48 Hst3HSPC    osven  R 6-05:38:09      8 cn[074-081]
+             70860      lu48 Hst3HSPS    osven  R 1-07:00:16      8 cn[018-021,023,025,029-030]
+             84245      lu48 LAMMPS_J  mek-pao  R       4:36      1 cn174
+             84246      lu48 LAMMPS_J  mek-pao  R       4:36      1 cn180
+             84244      lu48 LAMMPS_J  mek-pao  R       4:41      1 cn169
+             84243      lu48 LAMMPS_J  mek-pao  R       4:49      1 cn085
+             84242      lu48 LAMMPS_J  mek-pao  R       4:52      1 cn070
+             84241      lu48 LAMMPS_J  mek-pao  R       5:00      1 cn159
+             84240      lu48 LAMMPS_J  mek-pao  R       5:05      1 cn067
+             84239      lu48 LAMMPS_J  mek-pao  R       5:12      1 cn113
+             70908      lu48 PCPS_H_4  amandae  R 1-06:58:01      8 cn[160-166,170]
+             74384      lu48  6L9tzAH maryam42  R      19:56      1 cn064
+             74129      lu48 c11LtzA- maryam42  R   20:44:27      1 cn108
+             74382      lu48   c11LAH maryam42  R   12:54:09      1 cn149
+             74127      lu48 c11LtzAH maryam42  R 1-09:51:35      1 cn125
+             70907      lu48 PCPS_H_3  amandae  R 6-03:32:09      8 cn[097-104]
+             70906      lu48 PCPS_H_2  amandae  R 6-05:38:09      8 cn[141-148]
+             74040      lu48 6L5tzbAH maryam42  R 2-08:41:56      1 cn107
+             74022      lu48 c2DLAHtz maryam42  R 2-14:47:04      1 cn022
+             72925      lu48 7LMtzbA- maryam42  R 4-15:02:36      1 cn073
+             72924      lu48 7LMtzbAH maryam42  R 4-16:22:41      1 cn168
+             72922      lu48 7LWUbtzA maryam42  R 4-17:12:13      1 cn106
+         80968_298      lu48 s02_mmse  aegorov  R      12:09      1 cn118
+         80968_297      lu48 s02_mmse  aegorov  R      27:20      1 cn005
+         80968_296      lu48 s02_mmse  aegorov  R      27:22      1 cn051
+         80968_295      lu48 s02_mmse  aegorov  R      29:13      1 cn134
+         80968_294      lu48 s02_mmse  aegorov  R      34:08      1 cn119
+         80968_293      lu48 s02_mmse  aegorov  R      38:24      1 cn151
+         80968_292      lu48 s02_mmse  aegorov  R      39:36      1 cn173
+         80968_291      lu48 s02_mmse  aegorov  R      39:52      1 cn016
+         80968_290      lu48 s02_mmse  aegorov  R      40:15      1 cn009
+         80968_289      lu48 s02_mmse  aegorov  R      40:48      1 cn089
+         80968_288      lu48 s02_mmse  aegorov  R      42:32      1 cn006
+         80968_287      lu48 s02_mmse  aegorov  R      43:43      1 cn126
+         80968_286      lu48 s02_mmse  aegorov  R      51:57      1 cn066
+         80968_285      lu48 s02_mmse  aegorov  R      52:20      1 cn048
+         80968_284      lu48 s02_mmse  aegorov  R      52:24      1 cn128
+         80968_283      lu48 s02_mmse  aegorov  R      52:25      1 cn122
+         80968_280      lu48 s02_mmse  aegorov  R    1:00:03      1 cn133
+         80968_282      lu48 s02_mmse  aegorov  R    1:00:03      1 cn129
+         80968_279      lu48 s02_mmse  aegorov  R    1:09:06      1 cn060
+         80968_277      lu48 s02_mmse  aegorov  R    1:13:12      1 cn038
+         80968_274      lu48 s02_mmse  aegorov  R    1:26:50      1 cn033
+         80968_271      lu48 s02_mmse  aegorov  R    1:34:40      1 cn068
+         80968_265      lu48 s02_mmse  aegorov  R    1:53:57      1 cn032
+             72917      lu48 7LWbtzHA maryam42  R 4-22:04:11      1 cn130
+             72920      lu48 7LWHbtzA maryam42  R 4-22:03:42      1 cn167
+           83750_1      lu48 freqsin_ mkoushik  R    4:21:55      1 cn003
+           83750_2      lu48 freqsin_ mkoushik  R    4:21:55      1 cn003
+           83750_3      lu48 freqsin_ mkoushik  R    4:21:55      1 cn026
+           83750_4      lu48 freqsin_ mkoushik  R    4:21:55      1 cn083
+           83750_5      lu48 freqsin_ mkoushik  R    4:21:55      1 cn056
+             83956      lu48 runN4Alp     lila  R    1:22:41      1 cn003
+             83955      lu48 runN4Alp     lila  R    1:22:49      1 cn003
+             83954      lu48 runN4_Al     lila  R    1:22:56      1 cn003
+             83953      lu48 runN4_Al     lila  R    1:23:06      1 cn003
+             72905      lu48  12LAHtz maryam42  R 5-04:10:09      1 cn091
+             72906      lu48  12IA-tz maryam42  R 5-04:10:09      1 cn092
+             72913      lu48 2LbtzNAH maryam42  R 5-04:10:09      1 cn093
+             72914      lu48 2LbtzNA- maryam42  R 5-04:10:09      1 cn094
+             73781      lu48 8LDbtzA- maryam42  R 3-12:12:40      1 cn035
+             73764      lu48 11LA-tzb maryam42  R 3-13:46:44      1 cn088
+             72791      lu48    8LEAH maryam42  R 5-13:37:24      1 cn131
+             82531      lu48   d1uz3b     mads  R    9:53:37      1 cn112
+             72889      lu48   1LA-tz maryam42  R 5-13:29:10      1 cn012
+             72888      lu48   1LAHtz maryam42  R 5-13:30:18      1 cn037
+             82530      lu48   d1uz3b     mads  R   11:43:03      1 cn069
+             75062      lu48   900K_v  nseom19  R 2-03:52:59      1 cn028
+             73762      lu48 11LtzbAH maryam42  R 3-22:17:03      1 cn082
+             83796      lu48   NiCo15  nseom19  R    3:27:16      1 cn111
+             83794      lu48   CuCo15  nseom19  R    3:28:05      1 cn071
+             80247      lu48        a iranimeh  R   19:26:59      1 cn120
+             80254      lu48        a iranimeh  R   19:11:48      1 cn034
+             80251      lu48        a iranimeh  R   19:26:41      1 cn121
+             79803      lu48      HEM    sonia  R 1-05:00:42      1 cn055
+             79802      lu48      HEM    sonia  R 1-05:01:28      1 cn054
+             83919      lu48 num_freq mverissi  R    1:26:28      1 cn117
+             83914      lu48 num_freq mverissi  R    1:29:07      1 cn116
+             83876      lu48 num_freq mverissi  R    1:40:05      1 cn065
+             80282      lu48     TfR2     erna  R   19:24:50      1 cn084
+             80283      lu48 Tf2_2.80     erna  R   19:24:50      1 cn084
+             80325      lu48     TfR2     erna  R   19:18:50      1 cn178
+             79925      lu48     TfT1     erna  R 1-02:49:01      1 cn024
+             79826      lu48 run.psi4     vivy  R 1-04:28:28      1 cn002
+             83835      lu48   run.py     vivy  R    2:20:05      1 cn027
+             83828      lu48   run.py     vivy  R    2:26:25      1 cn015
+             83827      lu48 _interac     vivy  R    2:30:01      1 cn058
+             79956      lu48     TfT1     erna  R 1-02:39:01      1 cn024
+             79892      lu48    TfHIE     erna  R 1-03:13:02      1 cn024
+             83515      lu48  Tf_1.20     erna  R    5:00:04      1 cn087
+             83511      lu48  Tf_1.80     erna  R    5:01:15      1 cn087
+             83512      lu48  Tf_1.60     erna  R    5:01:15      1 cn087
+             83513      lu48  Tf_1.40     erna  R    5:01:15      1 cn087
+             83510      lu48  Tf_1.05     erna  R    5:03:18      1 cn087
+             73760      lu48  9LtzbA- maryam42  R 4-02:52:44      1 cn140
+             73758      lu48  9LtzbAH maryam42  R 4-02:54:45      1 cn036
+             73749      lu48 2DLAHbtz maryam42  R 4-03:01:26      1 cn132
+             79805      lu48 batch_co    marie  R 1-04:58:58      2 cn[137,150]
+             79801      lu48 sheperin    marie  R 1-05:01:59      2 cn[052-053]
+             79798      lu48 sheperin    marie  R 1-05:03:36      2 cn[181-182]
+             79795      lu48 sheperin    marie  R 1-05:06:46      2 cn[177,179]
+             79598      lu48 sheperin    marie  R 1-05:12:40      2 cn[171,176]
+kyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ sque[Keue -u yuxinlin
+[?2004l             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+             84260      lu48 yuxinlin yuxinlin  R       0:37      1 cn127
+kyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ scontrol show jobqueue -u yuxinlin[Kbatch ~/git/Homework5/yuxinlin-homework5-solution.sh[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pcode yuxinlin-homework5-solution.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Homework5[K[5Pgit ./yuxinlin-homework5-solution.sh[20Pcd Homework5[5Pgit screen -Lcd git/yuxinlin-HW5[4Pyuxinlin-HW5ode ~/git/Homework5/yuxinlin-homework5-solution.sh[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PHomework5/yuxinlin-homework5-solution.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd yuxinlin-HW5[K..[KHomework5W5[K[1P..ls -lcd Homework5[5Pgit screen -Lcd yuxinlin-HW5[3@mkdir[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pcd gitmv yuxinlin-HW5 Homework5[K[8Pcd git screen -Lcd ~/git/yuxinlin-HW5ode yuxinlin-homework5-solution.sh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcode yuxinlin-homework5-solution.sh[14Pd ~/git/yuxinlin-HW5./yuxinlin-homework5-solution.sh[11Pcd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5ode yuxinlin-homework5-solution.sh[14Pd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5ode yuxinlin-homework5-solution.sh[14Pd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5ode yuxinlin-homework5-solution.sh[14Pd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5./yuxinlin-homework5-solution.sh[11Pcd ~/git/yuxinlin-HW5[12Pscreen -Lcd ~/git/yuxinlin-HW5hmod +x yuxinlin-homework5-solution.sh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pd ~/git/yuxinlin-HW5ode yuxinlin-homework5-solution.sh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@touch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcd yuxinlin-HW5[3@mkdir[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pcd gitscreengit pullcd Homework6MNXB11-homework[6PHomework6[6Pgitgit pullclone https://github.com/simgor1/Homework_6.git Homework6[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmkdir Homework6[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd MNXB11-homework[9P~/git git push origin dev-homework4commit -m 'final commit for homework4'[22Padd homework4.shcd ~/git/MNXB11-homework/homework4/code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pgit add homework.shcd ~/git/MNXB11-homework/homework4/code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pode homework4.shd ~/git/MNXB11-homework/homework4/code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pgit push origin dev-homework4cd ~/git/MNXB11-homework/homework4/code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pgit push origin dev-homework4[15P./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[A[30Pcode homework4.sh
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd ~/git/MNXB11-homework/homework4/code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[A[30Pcode homework4.sh
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd ~/git/MNXB11-homework/homework4/code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pode homework4.sh./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[A[30Pcode homework4.sh
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pd codehomework4[KMNXB11-homework[10P~/git[1P~/git -/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Aman wget[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccode homework4.sh./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Awget -O yuxinlin https://canvas.education.lu.se/[42Pfiles/4047200/download?download_frd=1
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[30Pcode homework4.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwget https://canvas.education.lu.se/files/4047200/download?download_frd=1[A[C[C[C[C[C[C[C[30Pcode homework4.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd ~/git/MNXB11-homework/homework4/code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pfile input_1.pdf[10Pcd PDFffile input_1.pdfcd all_parameters_right[5Poutput_examples[6Phomework4MNXB11-homework[10P~/gitode homework4.sh[2Pd[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pcodehomework4MNXB11-homework[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ~/git[1Pgitfile input_2-b input_1i[C[C[C[C[C[C[C[C[7Pman filefile input_1[6Pcd PDFcodehomework4MNXB11-homework[10P~/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chomework4MNXB11-homework[10P~/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Aman file[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chomework4MNXB11-homework[10P~/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd homework4[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CMNXB11-homework[10P~/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chomework4MNXB11-homework[10P~/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chomework4~/git/MNXB11-homework[12Phomework4[5Pcode./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd ~/git[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CMNXB11-homework[6Phomework4[5Pcode./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd ~/git[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CMNXB11-homework[6Phomework4./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd ~/git[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CMNXB11-homework[6Phomework4[5Pcode./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Aman file[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd ~/git[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CMNXB11-homework[6Phomework4[5Pcode./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd ~/git[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CMNXB11-homework[6Phomework4[5Pcode[K[K[K[K[K homework4MNXB11-homework[10P~/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chomework4MNXB11-homework[10P~/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Aman file[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chomework4MNXB11-homework[10P~/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd homework4[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CMNXB11-homework[10P~/git./homework4.sh 'https://canvas.education.lu.se/files/4047200/download?download_frd=1' 'https://github.com/floridop/MNXB11-BASH/blob/main/README.md'  http://www.hep.lu.se[A[Acd code[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chomework4[K[K[K[K[K[K[K[K[K[K[K[Ksconreo[K[K[Ktrok[Kl show job 84260
+[?2004lJobId=84260 JobName=yuxinlin-homework5
+   UserId=yuxinlin(32227) GroupId=mnxb11(32200) MCS_label=N/A
+   Priority=68465 Nice=0 Account=lu2023-7-4 QOS=normal
+   JobState=RUNNING Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:02:09 TimeLimit=00:50:00 TimeMin=N/A
+   SubmitTime=2023-10-06T14:12:16 EligibleTime=2023-10-06T14:12:16
+   AccrueTime=2023-10-06T14:12:16
+   StartTime=2023-10-06T14:12:17 EndTime=2023-10-06T15:02:17 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2023-10-06T14:12:17 Scheduler=Main
+   Partition=lu48 AllocNode:Sid=cosmos2:1307035
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=cn127
+   BatchHost=cn127
+   NumNodes=1 NumCPUs=1 NumTasks=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,mem=5300M,node=1,billing=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryCPU=5300M MinTmpDiskNode=0
+   Features=(null) DelayBoot=00:00:00
+   OverSubscribe=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/yuxinlin/git/Homework5/yuxinlin-homework5-solution.sh
+   WorkDir=/home/yuxinlin/git/yuxinlin-HW5
+   StdErr=/home/yuxinlin/git/yuxinlin-HW5/error.84260
+   StdIn=/dev/null
+   StdOut=/home/yuxinlin/git/yuxinlin-HW5/output.84260
+   Power=
+   
+
+kyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ scancel 84260
+[?2004lkyuxinlin@cosmos2:~/git/yuxinlin-HW5\[?2004h[yuxinlin@cosmos2 yuxinlin-HW5]$ [?2004l
+exit
